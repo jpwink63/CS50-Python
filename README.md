@@ -16,9 +16,7 @@ How to Use:
 
   1. Navigate through the directories based on the desired content.
   
-  2. Each exercise includes a README file explaining the approach and solutions used.
-  
-  3. The final project includes a document detailing the proposal, methodology, and implementation.
+  2. The final project includes a document detailing the proposal, methodology, and implementation.
 
 Technologies Used
 
