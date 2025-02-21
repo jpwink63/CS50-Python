@@ -18,6 +18,8 @@ How to Use:
   
   2. The final project includes a document detailing the proposal, methodology, and implementation.
 
+  3. The docs directory includes a summary and notes from classes.
+
 Technologies Used
 
 Language: Python 
