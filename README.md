@@ -20,10 +20,11 @@ How to Use:
   
   3. The final project includes a document detailing the proposal, methodology, and implementation.
 
-Technologies Used:
+Technologies Used
 
 Language: Python 
 
-Contact:
+Contact
+
 If you have any questions or suggestions, feel free to reach out!
 
