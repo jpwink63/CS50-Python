@@ -34,7 +34,7 @@ Language: Python
 
 Contact:
 
-- [email](mailto:jopwink63@gmail.com)
+- [email](mailto:jopwink63@gmail.com?subject=[GitHub - CS50P])
 - [linkedin](https://www.linkedin.com/in/winkjoao/)
 
 
