@@ -1,3 +1,5 @@
+#check for meal time
+
 def main():
     clock = input("What's the time? ")
     decimal_time = convert(clock)
