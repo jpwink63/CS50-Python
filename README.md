@@ -6,11 +6,11 @@ This repository contains my solutions to exercises and the final project, organi
 
 Directory Structure:
 
-  • /exercises - Contains exercise solutions divided by topic or chapter.
+- /exercises - Contains exercise solutions divided by topic or chapter.
   
-  • /final_project - Dedicated directory for the development and documentation of the final project.
+- /final_project - Dedicated directory for the development and documentation of the final project.
   
-  • /docs - Reference materials and relevant notes.
+- /docs - Reference materials and relevant notes.
 
 How to Use:
 
