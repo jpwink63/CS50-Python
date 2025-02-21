@@ -34,7 +34,7 @@ Language: Python
 
 Contact:
 
-- [email](mailto:jopwink63@gmail.com?subject=[GitHub%20-%20CS50P])
+- [email](mailto:jopwink63@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [linkedin](https://www.linkedin.com/in/winkjoao/)
 
 
